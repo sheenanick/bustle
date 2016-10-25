@@ -1,3 +1,5 @@
+
+
 .carousel-inner img {
   margin: auto;
 }
@@ -52,3 +54,22 @@
     font-size: 36px;
     margin-left: 50px;
 }
+
+body {
+  background: linear-gradient(#F7F7F7,#F7F7F7,#cdd0d6,#F7F7F7,#F7F7F7)
+}
+
+h1 {
+  background-color: #50E3C2;
+  text-align: center;
+}
+
+#selected {
+  text-align: center;
+}
+
+/*#logo {
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}*/
