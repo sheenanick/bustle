@@ -5,4 +5,5 @@ export default DS.Model.extend({
   author: DS.attr(),
   body: DS.attr(),
   image: DS.attr(),
+  type: DS.attr(),
 });
