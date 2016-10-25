@@ -1,0 +1,8 @@
+<h1> Admin Portal </h1>
+{{new-article saveArticle="saveArticle"}}
+
+<ul>
+  {{#each model as |article|}}
+    {{admin-tile article=article edit="edit" destroyArticle="destroyArticle"}}
+  {{/each}}
+</ul>

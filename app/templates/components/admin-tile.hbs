@@ -1,0 +1,5 @@
+<li>
+  {{#link-to 'article' article.id}}{{article.heading}}{{/link-to}}
+  {{edit-article article=article edit="edit"}}
+  <button{{action 'delete' article}}>Delete</button>
+</li>
