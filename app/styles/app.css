@@ -56,7 +56,9 @@
 }
 
 body {
-  background: linear-gradient(#F7F7F7,#F7F7F7,#cdd0d6,#F7F7F7,#F7F7F7)
+  background-image: url("https://cdn.bustle.com/nighthawk.bustle.com/production/images/featured-pattern-27d6501d0fbb3f7e3deee91e37f7126d.svg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -68,8 +70,15 @@ h1 {
   text-align: center;
 }
 
-/*#logo {
-  margin: auto;
-  position: absolute;
-  text-align: center;
-}*/
+button {
+  background-color: #61D6D6;
+  color: white;
+  width: 70px;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: white;
+}
+
+li {
+  font-size: 20px;
+}
