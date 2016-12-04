@@ -1,7 +1,10 @@
 # Bustle
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### _Epicodus JavaScript Week 3, 10.25.2016_
+
+#### By Sheena Nickerson and Larry Tunseth
+
+This a program that rebuilds some of the Bustle website's main features, focusing primarily on construction and functionality. [Bustle](https://www.bustle.com/) is a news site written with Ember.js.
 
 ## Prerequisites
 
@@ -39,9 +42,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
@@ -51,3 +51,8 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+### License
+
+This software is licensed under the MIT license.
+
+Copyright (c) 2016 **_Sheena Nickerson and Larry Tunseth_**
